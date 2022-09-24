@@ -1,11 +1,12 @@
-DEMO LINK - https://vue-bank-23ed0.web.app 
+DEMO LINK - https://vue-bank-23ed0.web.app
+
+!!! To login to the app, register with any fictional (or not) but valid email and password. Then authorization using the same data.
 
 What is done, main:
 - used Composition API, Vuex, Vue-Router, Firebase, Axios, VeeValidate
 - works with Firebase database
 - registration / authorization via token
 - forms validation
-- enter to the app only after registration, then authorization using the same data
 - user data protection by authorization
 - creation user requests in modal window
 - user request page with dynamic editing and removing
