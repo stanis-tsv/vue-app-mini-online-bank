@@ -1,6 +1,6 @@
 DEMO LINK - https://vue-bank-23ed0.web.app
 
-!!! To login to the app, register with any fictional (or not) but valid email and password. Then authorization using the same data.
+!!! To enter the app, register with any fictional (or not) but valid email and password. Then authorization using the same data.
 
 What is done, main:
 - used Composition API, Vuex, Vue-Router, Firebase, Axios, VeeValidate
